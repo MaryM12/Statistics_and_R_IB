@@ -18,3 +18,7 @@ bonferroni, sidak, holm-sidak, holm, simes-hochberg, hommel, fdr_bh, fdr_by, fdr
 No correction is performed by default.
 
 The output table provides gene names, test_p_values (except for CI test), adjusted_p_values (if any), mean difference and if H0 is rejected.
+
+## Test 
+
+You can test it using the colab notebook Molodova_homework_lecture_5-6.ipynb (attached)
